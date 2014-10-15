@@ -23,7 +23,7 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="ts\app.ts" />
+    <TypeScriptCompile Include="script\app.ts" />
   </ItemGroup>
   <ItemGroup>
     <None Include="web.Debug.config">
